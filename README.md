@@ -15,4 +15,9 @@ In this HR data analytics project, the focus is on analyzing a dataset related t
 #### 3. Power BI Dashboard:
 
 - Develop a Power BI dashboard based on wireframe specifications.
-- Visualize key metrics and insights derived from SQL queries. 
+- Visualize key metrics and insights derived from SQL queries.
+
+## Dashboard Screenshot
+
+<img width="600" alt="Dashboard Screenshot" src="https://github.com/shikha-soni-23/HR-DATA-ANALYTICS/assets/95180528/ae0d0537-2669-4959-9c02-5350fee1cd14">
+
